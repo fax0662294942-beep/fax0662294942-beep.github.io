@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "io.github.fax0662294942_beep3.twa",
-    "sha256_cert_fingerprints": ["0A:A1:28:CA:5C:74:24:E0:8A:BD:D3:E6:5F:1B:9C:DF:A8:DB:61:58:4D:91:E9:13:25:B2:23:92:09:46:6A:B7"]
+    "package_name": "com.franco.viaggicamper",
+    "sha256_cert_fingerprints": ["11:E2:C8:4B:19:D4:62:E4:91:FD:B5:E7:7B:B8:E1:3B:4D:F6:58:F4:6F:35:2A:06:C8:08:7E:B4:3B:26:79:45"]
   }
 }]
